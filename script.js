@@ -1,8 +1,8 @@
       var img = [
-      "/images/c2.jpg",
-      "/images/c3.jpeg",
-      "/images/c4.jpeg",
-      "/images/c1.jpeg",
+      "images/c2.jpg",
+      "images/c3.jpeg",
+      "images/c4.jpeg",
+      "images/c1.jpeg",
       ];
       var counter = 0;
       changeImage = ()=> {
