@@ -1,8 +1,8 @@
       var img = [
-      "/HTML/coffee/images/c2.jpg",
-      "/HTML/coffee/images/c3.jpeg",
-      "/HTML/coffee/images/c4.jpeg",
-      "/HTML/coffee/images/c1.jpeg",
+      "https://raw.githubusercontent.com/jatinmourya07798/Change-Background-Image-automatically/main/images/c2.jpg",
+      "https://raw.githubusercontent.com/jatinmourya07798/Change-Background-Image-automatically/main/images/c3.jpeg",
+      "https://raw.githubusercontent.com/jatinmourya07798/Change-Background-Image-automatically/main/images/c4.jpeg",
+      "https://raw.githubusercontent.com/jatinmourya07798/Change-Background-Image-automatically/main/images/c1.jpeg",
       ];
       var counter = 0;
       changeImage = ()=> {
